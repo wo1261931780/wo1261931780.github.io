@@ -1,51 +1,43 @@
 
+![](https://raw.githubusercontent.com/wo1261931780/wo1261931780.github.io/master/img/readme-home.png)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
-
-[![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
-[![GitHub issues](https://img.shields.io/github/issues/qiubaiying/qiubaiying.github.io.svg?style=flat)](https://github.com/qiubaiying/qiubaiying.github.io/issues)
+[![Build Status](https://travis-ci.org/wo1261931780/wo1261931780.github.io.svg?branch=master)](https://travis-ci.org/wo1261931780/wo1261931780.github.io)
+[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-wo1261931780-wo1261931780-github-io-master)
+[![GitHub issues](https://img.shields.io/github/issues/wo1261931780/wo1261931780.github.io.svg?style=flat)](https://github.com/wo1261931780/wo1261931780.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
-[![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
+[![](https://img.shields.io/github/stars/wo1261931780/wo1261931780.github.io.svg?style=social&label=Star)](https://github.com/wo1261931780/wo1261931780.github.io)
+[![](https://img.shields.io/github/forks/wo1261931780/wo1261931780.github.io.svg?style=social&label=Fork)](https://github.com/wo1261931780/wo1261931780.github.io)
 
+博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io)
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
- 
-更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
+更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/wo1261931780/wo1261931780.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
 >
-### [查看博客戳这里 👆](http://qiubaiying.github.io)
-
-
+### [查看博客戳这里 👆](http://wo1261931780.github.io)
 
 ## 使用
 
 * 开始
-	* [环境](#环境)
-	* [开始](#开始)
-	* [撰写博文](#撰写博文)
+  * [环境](#环境)
+  * [开始](#开始)
+  * [撰写博文](#撰写博文)
 * 组件
-	* [侧边栏](#侧边栏)
-	* [迷你关于我](#mini-about-me)
-	* [推荐标签](#featured-tags)
-	* [好友链接](#friends)
-	* [HTML5 演示文档布局](#keynote-layout)
+  * [侧边栏](#侧边栏)
+  * [迷你关于我](#mini-about-me)
+  * [推荐标签](#featured-tags)
+  * [好友链接](#friends)
+  * [HTML5 演示文档布局](#keynote-layout)
 * 评论与 Google/Baidu Analytics
-	* [评论](#comment)
-	* [网站分析](#analytics) 
+  * [评论](#comment)
+  * [网站分析](#analytics)
 * 高级部分
-	* [自定义](#customization)
-	* [标题底图](#header-image)
-	* [搜索展示标题-头文件](#seo-title)
-
-
+  * [自定义](#customization)
+  * [标题底图](#header-image)
+  * [搜索展示标题-头文件](#seo-title)
 
 ### 环境
 
 如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要强刷浏览器）。
-
-
 
 ### 开始
 
@@ -54,11 +46,11 @@
 ```
 # Site settings
 title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+SEOTitle: 刘佳珺的博客 | BY Blog  # SEO 标题
+description: "Hey"        # 随便说点，描述一下
 
-# SNS settings      
-github_username: qiubaiying     # 你的github账号
+# SNS settings
+github_username: wo1261931780     # 你的github账号
 jianshu_username: e71990ada2fd  # 你的简书ID。
 
 # Build settings
@@ -81,7 +73,7 @@ subtitle:   iOS定时器详解
 date:       2016-12-13
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
+catalog:   true
 tags:
     - iOS
     - 定时器
@@ -92,7 +84,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/wo1261931780/wo1261931780.github.io/master/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -105,7 +97,6 @@ sidebar-avatar: /img/avatar-by.jpg     #你的大头贴，请使用绝对地址.
 
 侧边栏是响应式布局的，当屏幕尺寸小于992px的时候，侧边栏就会移动到底部。具体请见bootstrap栅格系统 <http://v3.bootcss.com/css/>
 
-
 ### Mini About Me
 
 Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账号。这个也是响应式布局，当屏幕变小时候，会将其移动到页面底部，只不过会稍微有点小变化，具体请看代码。
@@ -117,27 +108,25 @@ Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账
 
 ```
 # Featured Tags
-featured-tags: true  
+featured-tags: true
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
 ```
 
 唯一需要注意的是`featured-condition-size`: 如果一个标签的 SIZE，也就是使用该标签的文章数大于上面设定的条件值，这个标签就会在首页上被推荐。
- 
+
 内部有一个条件模板 `{% if tag[1].size > {{site.featured-condition-size}} %}` 是用来做筛选过滤的.
 
 ### Social-media Account
 
 在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
 
-	# SNS settings
-	RSS: false
-	jianshu_username: 	jianshu_id 
-	zhihu_username:     username
-	facebook_username:  username
-	github_username:    username
-	# weibo_username:   username
-	
-	
+ # SNS settings
+ RSS: false
+ jianshu_username:  jianshu_id
+ zhihu_username:     username
+ facebook_username:  username
+ github_username:    username
+ # weibo_username:   username
 
 ![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
 
@@ -152,7 +141,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 friends: [
     {
         title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        href: "https://wo1261931780.github.io/"
     },
     {
         title: "Apple",
@@ -160,7 +149,6 @@ friends: [
     }
 ]
 ```
-
 
 ### Keynote Layout
 
@@ -180,7 +168,6 @@ iframe:     "http://huangxuan.me/js-module-7day/"
 ```
 
 iframe在不同的设备中，将会自动的调整大小。保留内边距是为了让手机用户可以向下滑动，以及添加更多的内容。
-
 
 ### Comment
 
@@ -203,7 +190,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 ```
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: wo1261931780
 ```
 
 #### Gitalk
@@ -214,8 +201,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
-
+参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://wo1261931780.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
 
 ### Analytics
 
@@ -227,7 +213,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+ga_domain: huangxuan.me   # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
 
 ### Customization
@@ -239,7 +225,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 ### Header Image
 
 博客每页的标题底图是可以自己选的，看看几篇示例post你就知道如何设置了。
-  
+
 标题底图的选取完全是看个人的审美了。每一篇文章可以有不同的底图，你想放什么就放什么，最后宽度要够，大小不要太大，否则加载慢啊。
 
 > 上传的图片最好先压缩，这里推荐 imageOptim 图片压缩软件，让你的博客起飞。
@@ -248,7 +234,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### SEO Title
 
-我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“柏荧的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“刘佳珺的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
@@ -270,13 +256,11 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 参考文档：[using jekyll with pages](https://help.github.com/articles/using-jekyll-with-pages/) & [Upgrading from 2.x to 3.x](http://jekyllrb.com/docs/upgrading/2-to-3/)
 
-
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
-
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/wo1261931780/wo1261931780.github.io/blob/master/LICENSE)。
